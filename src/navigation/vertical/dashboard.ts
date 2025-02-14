@@ -23,8 +23,12 @@ export default [
         title: 'Logistics',
         to: 'dashboards-logistics',
       },
+      {
+        title: 'Proxys',
+        to: 'apps-proxy',
+      },
     ],
-    badgeContent: '5',
+    badgeContent: '6',
     badgeClass: 'bg-error',
   },
   {
